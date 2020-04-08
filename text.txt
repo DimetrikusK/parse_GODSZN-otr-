@@ -1,0 +1,16 @@
+Логин jira
+Пароль jira
+Создание общей папки	(C:/Users/user/Desktop/parse_GODSZN)
+Директория 		(C:/Users/user/Desktop/parse_GODSZN/storage)
+Директория		(C:/Users/user/Desktop/parse_GODSZN/logs)
+Директория		(C:/Users/user/Desktop/parse_GODSZN/sender)
+Директория		(C:/Users/user/Desktop/parse_GODSZN/sender_old)
+Создание базы данных 	(C:/Users/user/Desktop/parse_GODSZN/storage/godszn.db)
+Создание архива 	(C:/Users/user/Desktop/parse_GODSZN/sender/sender.zip)
+Директория 		(C:/Users/user/Desktop/parse_GODSZN/sender_old/)
+Создание jsson файла 	(C:/Users/user/Desktop/parse_GODSZN/sender/godszn.json)
+Pdf файл 		(C:/Users/user/Desktop/parse_GODSZN/sender/jira_PDF.pdf)
+.zip
+почта отправителя 
+почта пролучателя
+пароль почты отправителя
